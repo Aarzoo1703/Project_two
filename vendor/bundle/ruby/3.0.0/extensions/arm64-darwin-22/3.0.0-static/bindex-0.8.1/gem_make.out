@@ -1,0 +1,19 @@
+current directory: /Users/012tmpind/Documents/ror_practice/devise_clone/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/012tmpind/.rubies/ruby-3.0.5/bin/ruby -I /Users/012tmpind/.rubies/ruby-3.0.5/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /Users/012tmpind/Documents/ror_practice/devise_clone/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230214-3270-7g9eej sitelibdir\=./.gem.20230214-3270-7g9eej clean
+
+current directory: /Users/012tmpind/Documents/ror_practice/devise_clone/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230214-3270-7g9eej sitelibdir\=./.gem.20230214-3270-7g9eej
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/012tmpind/Documents/ror_practice/devise_clone/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230214-3270-7g9eej sitelibdir\=./.gem.20230214-3270-7g9eej install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20230214-3270-7g9eej/skiptrace/internal
+
+current directory: /Users/012tmpind/Documents/ror_practice/devise_clone/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230214-3270-7g9eej sitelibdir\=./.gem.20230214-3270-7g9eej clean

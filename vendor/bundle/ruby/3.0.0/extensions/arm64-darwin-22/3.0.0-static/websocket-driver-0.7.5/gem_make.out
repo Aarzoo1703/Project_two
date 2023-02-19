@@ -1,0 +1,19 @@
+current directory: /Users/012tmpind/Documents/ror_practice/devise_clone/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/012tmpind/.rubies/ruby-3.0.5/bin/ruby -I /Users/012tmpind/.rubies/ruby-3.0.5/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /Users/012tmpind/Documents/ror_practice/devise_clone/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230214-3270-51hqot sitelibdir\=./.gem.20230214-3270-51hqot clean
+
+current directory: /Users/012tmpind/Documents/ror_practice/devise_clone/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230214-3270-51hqot sitelibdir\=./.gem.20230214-3270-51hqot
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/012tmpind/Documents/ror_practice/devise_clone/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230214-3270-51hqot sitelibdir\=./.gem.20230214-3270-51hqot install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20230214-3270-51hqot
+
+current directory: /Users/012tmpind/Documents/ror_practice/devise_clone/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230214-3270-51hqot sitelibdir\=./.gem.20230214-3270-51hqot clean

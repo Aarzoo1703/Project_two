@@ -1,0 +1,34 @@
+current directory: /Users/012tmpind/Documents/ror_practice/devise_clone/vendor/bundle/ruby/3.0.0/gems/msgpack-1.6.0/ext/msgpack
+/Users/012tmpind/.rubies/ruby-3.0.5/bin/ruby -I /Users/012tmpind/.rubies/ruby-3.0.5/lib/ruby/site_ruby/3.0.0 extconf.rb
+checking for ruby/st.h... yes
+checking for st.h... no
+checking for rb_enc_interned_str() in ruby.h... yes
+checking for rb_hash_new_capa() in ruby.h... no
+creating Makefile
+
+current directory: /Users/012tmpind/Documents/ror_practice/devise_clone/vendor/bundle/ruby/3.0.0/gems/msgpack-1.6.0/ext/msgpack
+make DESTDIR\= sitearchdir\=./.gem.20230214-3270-j5ko21 sitelibdir\=./.gem.20230214-3270-j5ko21 clean
+
+current directory: /Users/012tmpind/Documents/ror_practice/devise_clone/vendor/bundle/ruby/3.0.0/gems/msgpack-1.6.0/ext/msgpack
+make DESTDIR\= sitearchdir\=./.gem.20230214-3270-j5ko21 sitelibdir\=./.gem.20230214-3270-j5ko21
+compiling buffer.c
+compiling buffer_class.c
+compiling extension_value_class.c
+compiling factory_class.c
+compiling packer.c
+compiling packer_class.c
+compiling packer_ext_registry.c
+compiling rbinit.c
+compiling rmem.c
+compiling unpacker.c
+compiling unpacker_class.c
+compiling unpacker_ext_registry.c
+linking shared-object msgpack/msgpack.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/012tmpind/Documents/ror_practice/devise_clone/vendor/bundle/ruby/3.0.0/gems/msgpack-1.6.0/ext/msgpack
+make DESTDIR\= sitearchdir\=./.gem.20230214-3270-j5ko21 sitelibdir\=./.gem.20230214-3270-j5ko21 install
+/usr/bin/install -c -m 0755 msgpack.bundle ./.gem.20230214-3270-j5ko21/msgpack
+
+current directory: /Users/012tmpind/Documents/ror_practice/devise_clone/vendor/bundle/ruby/3.0.0/gems/msgpack-1.6.0/ext/msgpack
+make DESTDIR\= sitearchdir\=./.gem.20230214-3270-j5ko21 sitelibdir\=./.gem.20230214-3270-j5ko21 clean
